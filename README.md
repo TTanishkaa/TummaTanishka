@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TummaTanishka
 - 👀 I’m interested in web dev and UX/UI design.
 - 🌱 I’m currently learning web dev and python.
-- 📫 contact me through <a href="https://www.instagram.com/tanishkaaa.t/">Instagram</a>
+- 📫 contact me through <a href="https://www.instagram.com/tanishkaaa.t/" target="_blank">Instagram</a>
 - 😄 Pronouns: she/her
 
   
